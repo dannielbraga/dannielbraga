@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-### :octocat: Stats
+### Stats
 <p align="center">
 <a href="https://github.com/dannielbraga/github-readme-stats"> 
 <img src="https://github-readme-stats.vercel.app/api?username=dannielbraga&show_icons=true" width="45%"/>
